@@ -1,4 +1,4 @@
 gitty
 =====
 
-toying with the git
+toying with the git.
